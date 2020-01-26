@@ -1,36 +1,6 @@
     ------------------------------------------------------------------------
-This is the project README file. As in the weekly labs, you should use
-this file to let us know if you are taking any late days FOR THE FINAL
-PROJECT DEADLINE (12/4 or 12/5).
-
-In addition, we want you to use this file to hold a document outlining
-your plans for completing the project. This document should include a
-list of the classes you plan to write, a summary of the instance variables
-and the public methods that will be defined in each class. Finally, you
-should include an implementation plan explaining the order in which you
-will write and debug each of the components of the program. An initial
-version of this document must be submitted by push/commit of this project
-by 11/20 or 11/21 as decribed in the lab handout
+Freshman Fall 2019 final project; worked together with partner Hannah Ahn
 ------------------------------------------------------------------------
-
-ANONYMOUS ID NUMBER(S): 2545454 & 1410589
-<<<<<<< HEAD
-NUMBER OF LATE DAYS I PLAN TO USE (for final submission only): 1
-=======
-NUMBER OF LATE DAYS I PLAN TO USE (for final submission only): 2545454 has
-    2 late days but 1410589 doesn't have anymore left so 2545454 is giving
-    one to 1410589 so that we can turn it in 1 day late (we got Jeannie and
-    Tom's permission)
-
-
-
-SUMMARY OF CLASSES AND METHODS THAT WILL BE COMPLETED:
-Class GameBoard
-Class MultiPlayer
-Class Timer
-Class buttonGrid
-Class Lexicon
-
 IMPLEMENTATION PLAN:
 Goals for Different Classes:
 
